@@ -1,0 +1,13 @@
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\bin\Debug\SMTP3.exe.config
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\bin\Debug\SMTP3.exe
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\bin\Debug\SMTP3.pdb
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\bin\Debug\MailKit.dll
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\bin\Debug\MimeKit.dll
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\bin\Debug\MailKit.xml
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\bin\Debug\MimeKit.xml
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\obj\Debug\SMTP3.csprojAssemblyReference.cache
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\obj\Debug\SMTP3.csproj.CoreCompileInputs.cache
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\obj\Debug\SMTP3.csproj.CopyComplete
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\obj\Debug\SMTP3.exe
+C:\Users\Onoma\source\repos\SMTP3\SMTP3\obj\Debug\SMTP3.pdb
