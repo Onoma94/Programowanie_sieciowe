@@ -1,0 +1,7 @@
+C:\Users\Onoma\source\repos\FTP2\FTP2\bin\Debug\FTP2.exe.config
+C:\Users\Onoma\source\repos\FTP2\FTP2\bin\Debug\FTP2.exe
+C:\Users\Onoma\source\repos\FTP2\FTP2\bin\Debug\FTP2.pdb
+C:\Users\Onoma\source\repos\FTP2\FTP2\obj\Debug\FTP2.csprojAssemblyReference.cache
+C:\Users\Onoma\source\repos\FTP2\FTP2\obj\Debug\FTP2.csproj.CoreCompileInputs.cache
+C:\Users\Onoma\source\repos\FTP2\FTP2\obj\Debug\FTP2.exe
+C:\Users\Onoma\source\repos\FTP2\FTP2\obj\Debug\FTP2.pdb
